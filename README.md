@@ -1,4 +1,4 @@
-Dog Breed Classification
+# Dog Breed Classification
 This project focuses on classifying dog breeds using a deep learning model trained on over 10,000 images. Leveraging the power of transfer learning, we utilized the MobileNet V2 architecture to achieve high accuracy and efficiency in breed identification.
 
 Features
